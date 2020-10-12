@@ -27,8 +27,8 @@ input {
   position: absolute;
   left: 50%;
   transform: translateX(-50%);
-  min-width: 50%;
-  min-height: 50%;
+  min-width: 100%;
+  min-height: 100%;
 }
 #intro .content {
   text-align: center;
