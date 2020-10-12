@@ -1,10 +1,10 @@
 html,
 body {
-  height: 100%;
+  padding-top: 30px;
 }
 body,
 input {
-  font-family: "Montserrat";
+  font-family: "Oswald";
 }
 #intro {
   position: relative;
@@ -27,8 +27,8 @@ input {
   position: absolute;
   left: 50%;
   transform: translateX(-50%);
-  min-width: 100%;
-  min-height: 100%;
+  min-width: 50%;
+  min-height: 50%;
 }
 #intro .content {
   text-align: center;
